@@ -1,7 +1,7 @@
 <?php
 /*
 copyright @ medantechno.com
-Modified @ Farzain - zFz
+Modified @ Mochammad Irfan Efendi
 2017
 
 */
